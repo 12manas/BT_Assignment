@@ -14,6 +14,7 @@ items_sort_order_validations.robot Contains all the Test Cases related to Items 
 log_Add_items_to_cart_and_complete_order.robot Contains all the Test Cases related to Add items to cart and complete order ( As Per the Official Email)
 
 Files with Extension .html belongs to their execution result, which shows all the test cases are passed.
+We Need to download them on local with .html extension and then need to open on chrome browser too see the validation results. 
 
 Command used for execution is : robot  <filename.robot>
 ###
